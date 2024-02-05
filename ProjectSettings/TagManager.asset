@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Spikes
+  - Snow
+  - Arrow
+  - Wall
+  - Snowball
+  - Snowman
+  - FinalEnemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - BG1
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: -3
+    uniqueID: 3238901377
+    locked: 0
+  - name: -2
+    uniqueID: 2471408093
+    locked: 0
+  - name: BG1
+    uniqueID: 3327786653
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 2859574697
+    locked: 0
+  - name: 2
+    uniqueID: 1355868993
+    locked: 0
+  - name: 3
+    uniqueID: 3559620283
+    locked: 0
